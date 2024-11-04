@@ -1,2 +1,11 @@
-#NNS
-This version for free. feel free to use and ask in discord : doublenns
+# About NNS Screen
+
+This is free version.
+
+Created by nns with python language.
+
+# Contact
+
+feel free to dm me if u have problems or want me to add something.
+
+Discord : doublenns
